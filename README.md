@@ -1,3 +1,10 @@
+#Proje Hakkında Bilgilendirme:
+-Projeyi indirdikten sonra IDE'mizde açtığımızda terminale aşağıdaki komutları yazacağız.
+npm i
+npm run start
+-Bu komutlardan sonra projemiz local host'ta çalışıyor olacak.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
